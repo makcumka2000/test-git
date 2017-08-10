@@ -1,6 +1,6 @@
 <?php
- echo 'Hello, world!!!';
+echo 'Hello, world!!!';
 
- ?>
+?>
 
 It is a new simple code
